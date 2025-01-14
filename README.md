@@ -4,11 +4,10 @@ most of the repos here are mirrors from the [frzn.dev forgejo instance](https://
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vim,vscode,cs,java,nodejs,python,php,laravel,ruby,rails,mysql)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floppydisk05&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floppydisk05&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoscoeDaWah&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoscoeDaWah&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/437970062922612737
-                            )](https://discord.com/users/437970062922612737)
+[![Discord Presence](https://lanyard.cnrad.dev/api/437970062922612737)](https://discord.com/users/437970062922612737)
 ---
 
 <a href="https://c.im/@floppydisk">
@@ -24,4 +23,4 @@ most of the repos here are mirrors from the [frzn.dev forgejo instance](https://
   <img align="left" alt="cgit" width="20px" src="https://simpleicons.now.sh/git/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Websites : [diskfloppy.me](https://www.diskfloppy.me) / [dwiskfwoppy.me](https://www.dwiskfwoppy.me) / [hyprcat.net](http://www.hyprcat.net)
+| &nbsp;&nbsp;&nbsp; Websites : [wah.moe](https://wah.moe) / [weh.moe](https://weh.moe) / [hyprcat.net](http://www.hyprcat.net) / [~roscoe](https://frzn.dev/~roscoe/) (frzn.dev)
