@@ -1,22 +1,23 @@
 This is account is a mirror of my account on the [frzn.dev forgejo instance](https://git.frzn.dev/RoscoeDaWah)
 
 ## Migrated projects
+
 - [wah.moe](https://git.frzn.dev/RoscoeDaWah/wah.moe)
 - [Jaim](https://git.frzn.dev/RoscoeDaWah/Jaim)
 - [doki](https://git.frzn.dev/RoscoeDaWah/doki)
 
 ---
 
-<a href="https://c.im/@floppydisk">
-  <img align="left" alt="Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
+<a href="https://bsky.app/profile/wah.moe">
+  <img align="left" alt="Bluesky" width="20px" src="https://simpleicons.now.sh/bluesky/495f7e" />
 </a>
-<a href="https://git.frzn.dev/fwoppydwisk">
+<a href="https://git.frzn.dev/RoscoeDaWah">
   <img align="left" alt="Forgejo" width="20px" src="https://simpleicons.now.sh/forgejo/495f7e" />
 </a>
-<a href="https://github.com/floppydisk05">
+<a href="https://github.com/RoscoeDaWah">
   <img align="left" alt="GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
 </a>
-<a href="https://git.diskfloppy.me/">
+<a href="https://git.wah.moe/">
   <img align="left" alt="cgit" width="20px" src="https://simpleicons.now.sh/git/495f7e" />
 </a>
 
