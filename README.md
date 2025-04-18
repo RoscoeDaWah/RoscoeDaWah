@@ -1,5 +1,12 @@
 This is account is a mirror of my account on the [frzn.dev forgejo instance](https://git.frzn.dev/RoscoeDaWah)
 
+## Migrated projects
+- [wah.moe](https://git.frzn.dev/RoscoeDaWah/wah.moe)
+- [Jaim](https://git.frzn.dev/RoscoeDaWah/Jaim)
+- [doki](https://git.frzn.dev/RoscoeDaWah/doki)
+
+---
+
 <a href="https://c.im/@floppydisk">
   <img align="left" alt="Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
