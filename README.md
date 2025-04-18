@@ -13,4 +13,4 @@ This is account is a mirror of my account on the [frzn.dev forgejo instance](htt
   <img align="left" alt="cgit" width="20px" src="https://simpleicons.now.sh/git/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Websites : [wah.moe](https://wah.moe) / [weh.moe](https://weh.moe) / [hyprcat.net](http://www.hyprcat.net) / [~roscoe](https://frzn.dev/~roscoe/) (frzn.dev)
+| &nbsp;&nbsp;&nbsp; Websites : [wah.moe](https://wah.moe) / [weh.moe](https://weh.moe) / [~roscoe](frzn.dev/~roscoe)
